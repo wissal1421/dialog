@@ -1,0 +1,21 @@
+repositories:
+  dialogflow_ros2:
+    type: git
+    url: https://github.com/Juancams/dialogflow_ros2.git
+    version: main
+  gb_dialog:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/gb_dialog.git
+    version: ros2
+  audio_common:
+    type: git
+    url: https://github.com/Juancams/audio_common.git
+    version: ros2
+  rosidl:
+    type: git
+    url: https://github.com/ros2/rosidl.git
+    version: 3.3.1
+  rosidl_python:
+    type: git
+    url: https://github.com/knorth55/rosidl_python.git
+    version: fix-141
