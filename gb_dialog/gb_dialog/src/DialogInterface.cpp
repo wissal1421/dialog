@@ -33,10 +33,10 @@
 *********************************************************************/
 
 /* Author: Jonatan Gines jonatan.gines@urjc.es */
-/* Modified: Juan Carlos Manzanares juancarlos.serrano@urjc.es */
+/* Modified: Wissal Abarkan Chouklati w.abarkan.2022@alumnos.urjc.es */
 
 /* Mantainer: Jonatan Gines jonatan.gines@urjc.es */
-/* Mantainer: Juan Carlos Manzanares juancarlos.serrano@urjc.es */
+/* Mantainer: Wissal Abarkan Chouklati w.abarkan.2022@alumnos.urjc.es */
 #include "gb_dialog/DialogInterface.hpp"
 
 #include <string>
